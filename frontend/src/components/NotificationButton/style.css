@@ -12,6 +12,7 @@
   .dsmeta-red-btn button{
     background-color: transparent;
     cursor: pointer;
+    border: none;
 
   }
   .dsmeta-red-btn img {
